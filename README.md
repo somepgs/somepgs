@@ -19,7 +19,7 @@
 
 ### 📌 [Task Sheduler](https://github.com/somepgs/task_scheduler)
 Планировщик задач в веб-интерфейсе.  
-**Стек:** Go, SQL, SQLite, Docker, Unit-тесты, JWT.  
+**Стек:** Go, SQL, SQLite, REST API, Docker, Unit-тесты, JWT.  
 **Особенности:** CRUD-операции, авторизация, работа с файлами и БД, слоистая архитектура.  
 
 ### 📌 [URL Shortener](https://github.com/somepgs/url-shortener)
