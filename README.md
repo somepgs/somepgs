@@ -17,7 +17,7 @@
 
 ## 🛠 Проекты
 
-### 📌 [Task Manager CLI](https://github.com/somepgs/task_scheduler)
+### 📌 [Task Sheduler](https://github.com/somepgs/task_scheduler)
 Планировщик задач в веб-интерфейсе.  
 **Стек:** Go, SQL, SQLite, Docker, Unit-тесты, JWT.  
 **Особенности:** CRUD-операции, авторизация, работа с файлами и БД, слоистая архитектура.  
