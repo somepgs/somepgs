@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Привет, меня зовут Григорий! (@somepgs)
 
-<!--
-**somepgs/somepgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Go-разработчик. Учусь и развиваюсь в backend-разработке, параллельно осваиваю архитектуру приложений, тестирование, работу с базами данных и системное администрирование.  
+Моя цель — стать уверенным Go-разработчиком и работать над реальными проектами в команде.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Навыки и стек
+- **Языки программирования:** Go, SQL, немного Java  
+- **Базы данных:** PostgreSQL, SQLite  
+- **Инструменты:** Git, Docker, WSL2 (Linux/Windows)  
+- **Архитектура:** многослойная, MVC, основы чистой архитектуры  
+- **Тестирование:** модульные и интеграционные тесты в Go  
+- **Другие навыки:** работа с Linux, базовые знания сетей и алгоритмов  
+
+---
+
+## 🛠 Проекты
+
+### 📌 [Task Manager CLI](https://github.com/somepgs/task_scheduler)
+Планировщик задач в веб-интерфейсе.  
+**Стек:** Go, SQL, SQLite, Docker, Unit-тесты, JWT.  
+**Особенности:** CRUD-операции, авторизация, работа с файлами и БД, слоистая архитектура.  
+
+### 📌 [URL Shortener](https://github.com/somepgs/url-shortener)
+Мини-сервис для сокращения ссылок.  
+**Стек:** Go, PostgreSQL, Docker.  
+**Особенности:** REST API, работа с БД, миграции, тесты.  
+
+### 📌 [Password Generator CLI](https://github.com/somepgs/password-generator)
+Генератор паролей с настройками длины и сложности.  
+**Стек:** Go.  
+**Особенности:** удобный CLI-интерфейс.  
+
+---
+
+## 📖 Что изучаю сейчас
+- Go под капотом: горутины, каналы, runtime  
+- Алгоритмы и структуры данных  
+- Паттерны проектирования (в том числе для многопоточности)  
+- Тестирование и CI/CD  
+
+---
+
+## 📫 Контакты
+- Telegram: [@somepgs](https://t.me/somepgs)  
+- Email: grishapopkov80@gmail.com
